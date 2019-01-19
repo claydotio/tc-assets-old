@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="350px" viewBox="0 0 226 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>arbor_maple_mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="maple-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-49.000000, -50.000000)">
+        <g id="arbor_maple_mask" transform="translate(49.000000, 50.000000)" fill="#000000">
+            <path d="M1.49606346,24.9147245 L17.823658,22.1079388 L22.4647261,13.4000015 L32.0695343,13.4000015 L42.862729,0.510769826 C42.9549876,0.179972936 43,7.10542736e-15 43,7.10542736e-15 L213.493693,7.10542736e-15 C220.400736,7.10542736e-15 226,5.60382598 226,12.5082332 L226,337.491767 C226,344.399873 220.410136,350 213.50183,350 L13.4981705,350 C6.59562152,350 0.966340891,344.409807 0.925980425,337.507959 C0.925980425,337.507959 -1,27 1,25 C1.07026852,24.9297315 1.23953901,24.9044667 1.49606328,24.9147245 Z" id="Card"></path>
+        </g>
+    </g>
+</svg>
