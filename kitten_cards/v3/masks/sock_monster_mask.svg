@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="233px" height="358px" viewBox="0 0 233 358" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sock_monster_mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.1221636,53.7361335 C1.7762032,47.6891345 5.01803259,41.9678137 10.486259,38.3484736 L20.1520766,31.9508085 L20.1520766,10.7716049 C20.1520766,5.65233668 23.7232517,1.36716105 28.510269,0.271410983 L28.4972108,0 L213.495483,0 C220.401537,0 226,5.60382598 226,12.5082332 L226,337.491767 C226,344.399873 220.410109,350 213.501769,350 L13.4971379,350 C6.59455536,350 0.998906648,344.409372 0.998906648,337.501118 L0.998906648,55.498882 C0.998906648,54.8877368 1.04094664,54.2994481 1.1221636,53.7361335 Z" id="path-1"></path>
+        <filter x="-3.1%" y="-1.4%" width="106.2%" height="104.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Sock-Monster-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-46.000000, -48.000000)">
+        <g id="sock_monster_mask" transform="translate(49.000000, 50.000000)">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
