@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="229px" height="350px" viewBox="0 0 229 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>cinco_de_mayo_sombrero_mask_small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Cinco-de-mayo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sombrero_mask" transform="translate(-48.000000, -50.000000)">
+            <g id="cinco_de_mayo_sombrero_mask" transform="translate(48.000000, 50.000000)">
+                <path d="M9.12937802,36.0316861 L74.4763625,36.0316861 C82.6315091,14.4449309 97.5043894,0 114.500005,0 C131.49562,0 146.3685,14.4449309 154.523638,36.0316861 L228.5,36.0316861 C228.5,38.3680028 227.96078,40.5783779 227.000001,42.5451485 L227,337.500511 C227,344.403788 221.410136,350 214.50183,350 L14.4981705,350 C7.59562152,350 2,344.399912 2,337.49706 L2,42.5451504 C1.03922048,40.5783779 0.5,38.3680028 0.5,36.0316861 L2,36.0316861 L2,36 L9.12937802,36.0316861 Z" id="Path" fill="#000000"></path>
+                <g id="Card-frame" transform="translate(7.000000, 36.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>
